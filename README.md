@@ -2,7 +2,7 @@
 용량 문제로 구글드라이브에 업로드함.
 
 ## 프로젝트 다운로드
-- [다운로드 링크](https://drive.google.com/drive/folders/1ltzbmL8U_RINL0y8ChaYT2x1QIIljUCv?usp=sharing)
+- [다운로드 링크](https://drive.google.com/file/d/1aWM7tKMzYVZNdoTNv6RDEXBVRe3jjLr7/view?usp=sharing)
 
 ## 설치
 - 아나콘다 설치
