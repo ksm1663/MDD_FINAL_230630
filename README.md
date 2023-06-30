@@ -1,5 +1,11 @@
 # MDDFinal
-용량 문제로 구글드라이브에 업로드함.
+- 용량 문제로 구글드라이브에 업로드함.
+- Pythonnet 실행 인공신경망
+  - GPT-2
+  - Gesticulator
+- 인공신경망간 파이썬 패키지 충돌로 아래 환경은 pyinstaller를 사용하여 exe 파일로 패키징하여 실행함.
+  - DeepSpeech(STT)
+  - Coqui TTS
 
 ## 프로젝트 다운로드
 - [다운로드 링크](https://drive.google.com/file/d/1aWM7tKMzYVZNdoTNv6RDEXBVRe3jjLr7/view?usp=sharing)
@@ -18,7 +24,7 @@ $> conda activate {가상환경 이름}
 (가상환경 이름) $> pip isntall -r Assets/requirements.txt
 ```
 - 유니티에 가상환경 경로 입력
- - {유니티 프로젝트 경로}/Assets/pathinfo.txt 에 설치한 가상환경 경로 입력
+  - {유니티 프로젝트 경로}/Assets/pathinfo.txt 에 설치한 가상환경 경로 입력
 
 ## 실행
 - Unity Version : 2021.3.6f1
