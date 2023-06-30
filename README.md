@@ -1,4 +1,5 @@
 # MDDFinal
+- Unity Version : 2021.3.6f1
 - 용량 문제로 구글드라이브에 업로드함.
 - Pythonnet 실행 인공신경망
   - GPT-2
@@ -27,7 +28,6 @@ $> conda activate {가상환경 이름}
   - {유니티 프로젝트 경로}/Assets/pathinfo.txt 에 설치한 가상환경 경로 입력
 
 ## 실행
-- Unity Version : 2021.3.6f1
 - 유니티 에디터에서 플레이 버튼 클릭
 - 영어만 인식 가능
 
