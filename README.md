@@ -9,7 +9,7 @@
   - Coqui TTS
 
 ## 프로젝트 다운로드
-- [다운로드 링크](https://drive.google.com/file/d/15AiYI0VVICDvPS0cDVQoWlzyF01n3_uy/view?usp=sharing)
+- [다운로드 링크](http://naver.me/xr6kzEyS)
 
 ## 설치
 - 아나콘다 설치
