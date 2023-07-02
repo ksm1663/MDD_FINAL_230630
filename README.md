@@ -1,12 +1,13 @@
 # MDDFinal
 - Unity Version : 2021.3.6f1
-- 용량 문제로 구글드라이브에 업로드함.
-- Pythonnet 실행 인공신경망
+- 용량 문제로 클라우드에 업로드함(아래 링크).
+- 프로젝트 내 사용 인공신경망
   - GPT-2
   - Gesticulator
-- 인공신경망간 파이썬 패키지 충돌로 아래 환경은 pyinstaller를 사용하여 exe 파일로 패키징하여 실행함.
   - DeepSpeech(STT)
   - Coqui TTS
+- 파이썬 패키지 충돌로 DeepSpeech와 Coqui STT는 pyinstaller를 사용하여 exe 파일로 패키징하여 실행함.
+
 
 ## 프로젝트 다운로드
 - [다운로드 링크](http://naver.me/xr6kzEyS)
