@@ -1,13 +1,7 @@
 # MDDFinal
 - Unity Version : 2021.3.6f1
-- 용량 문제로 클라우드에 업로드함(아래 링크).
-- 프로젝트 내 사용 인공신경망
-  - GPT-2
-  - Gesticulator
-  - DeepSpeech(STT)
-  - Coqui TTS
-- 파이썬 패키지 충돌로 DeepSpeech와 Coqui STT는 pyinstaller를 사용하여 exe 파일로 패키징하여 실행함.
-
+- Demo Video(아래 이미지 클릭)
+[![Demo Video](https://github.com/ksm1663/MDD_FINAL_230630/assets/37495088/ceafdc92-8a1c-4f9f-b39f-3ab7c8ce7d00)](https://vimeo.com/841713865?share=copy)
 
 ## 프로젝트 다운로드
 - [다운로드 링크](http://naver.me/xr6kzEyS)
