@@ -3,7 +3,7 @@
 
 ## 프로젝트 데모 영상/다운로드
 - [데모영상 링크](https://vimeo.com/841713865?share=copy)
-- [다운로드 링크](http://naver.me/xr6kzEyS)
+- [다운로드 링크](http://naver.me/FkdF6FKv)
 
 ## 설치
 - 아나콘다 설치
