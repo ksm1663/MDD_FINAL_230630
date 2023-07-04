@@ -1,12 +1,14 @@
 # MDDFinal
 - Unity Version : 2021.3.6f1
-- 용량 문제로 아래 다운로드 링크로 제출함
 
-## 소스코드 다운로드
-- [다운로드 링크](http://naver.me/FkdF6FKv)
-
-## 프로젝트 데모 영상
+## 프로젝트 데모 영상/다운로드
 - [데모영상 링크](https://vimeo.com/841713865?share=copy)
+
+## 프로젝트 실행 전 필수 압축해제 파일 (Git LFS 무료 용량 초과로 인한 분할압축 해제 필요)
+- Assets/Plugins/CoquiTTS/tts_model.zip 파일의 압축 해제 후 zip 파일 및 분할 압축 파일 제거
+- Assets/Plugins/CoquiTTS/build/tts/tts.zip 파일의 압축 해제 후 zip 파일 및 분할 압축 파일 제거
+- Assets/Plugins/CoquiTTS/dist/tts.zip 파일의 압축 해제 후 zip 파일 및 분할 압축 파일 제거
+- Assets/Plugins/DeepSpeech/deepspeech-0.9.3-models.zip 파일의 압축 해제 후 zip 파일 및 분할 압축 파일 제거
 
 ## 설치
 - 아나콘다 설치

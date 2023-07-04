@@ -1,0 +1,2 @@
+GPT_GESTI_PYDLL=C:\Users\meteo\anaconda3\envs\gpt_gesti\python38.dll
+GPT_GESTI_PYTHON_HOME=C:\Users\meteo\anaconda3\envs\gpt_gesti
